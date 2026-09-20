@@ -1,0 +1,80 @@
+{
+  "name": "Executive Sapphire & Cyberpunk Dark Theme",
+  "dataColors": [
+    "#1E40AF",
+    "#F59E0B",
+    "#06B6D4",
+    "#8B5CF6",
+    "#EC4899",
+    "#10B981",
+    "#6366F1",
+    "#F97316"
+  ],
+  "background": "#F1F5F9",
+  "foreground": "#0F172A",
+  "tableAccent": "#1E40AF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#CBD5E1"
+              }
+            },
+            "radius": 8
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "transparency": 90,
+            "blur": 4,
+            "position": "Outer"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
