@@ -9,6 +9,8 @@ This project is perfect for:
 
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+<img width="2080" height="2870" alt="data_analytics_pipeline" src="https://github.com/user-attachments/assets/82238a45-2b07-46ed-98e5-93e6f10bb589" />
+
 
 ✅ **Data Preparation, Modeling & Exploratory Data Analysis (Python):** Clean and transform the raw dataset for analysis.
 
@@ -17,6 +19,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ **Visualization & Insights (Power BI):** Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ **Report and Presentation:** Write a clear project report summarizing key findings and business recommendations, and prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+## 📌 Customer Behavior Dashboard
+<img width="1048" height="570" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/19adee7c-e2e5-46a7-a2d7-8939ea529188" />
+
 
 ## 🛠️ How to Use This Project
 
